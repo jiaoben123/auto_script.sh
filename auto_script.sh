@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#一键安装BBRplus和docker
 # 更新系统并安装必要的工具
 yum update -y
 sudo yum install -y wget
